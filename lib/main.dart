@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: TextField(
                 controller: _textController,
                 decoration: InputDecoration(
-                  hintText: 'Enter Text',
+                  hintText: 'Enter Text feild',
                   filled: true,
                   fillColor: Colors.grey[200],
                   border: OutlineInputBorder(
